@@ -1,0 +1,16 @@
+
+
+Description
+
+Accesibility is an important consideration for any business with an online presence. This site was refactored to align it with current accessibility standards. This ensures that people with disabilities can access the content using assistive technologies such as video captions, screen readers, and braille keyboards. Following accessibility guidelines helps optimize the site for search engines.
+
+
+Summary of issues noted and their status:
+
+Search engine optimization link not working - resolved 
+Title of website just "website" - resolved
+Reduntant </img> tag in Cost Management image. - resolved
+Multiple div elements clutter code - resolved with semantic elements
+Add Accessibility text to all images - resolved
+
+Usage
