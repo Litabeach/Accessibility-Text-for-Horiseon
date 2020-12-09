@@ -14,3 +14,5 @@ Multiple div elements clutter code - resolved with semantic elements
 Add Accessibility text to all images - resolved
 
 Usage
+
+Made it live - https://litabeach.github.io/Homework-1/
